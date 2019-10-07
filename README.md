@@ -1,3 +1,5 @@
+This is a university project done in collaboration with Ximena Zuberbuhler, Martin Victory and Segundo Fariña. The objective was to implement a 2D tabletop game general solving framework and use it to solve the game [Skyscrapers](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/skyscrapers/).
+
 # Skycrapers game
 
 ## Compiling process
